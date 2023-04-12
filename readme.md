@@ -1,4 +1,5 @@
 # Three.js Exercise
+![Screenshot_2](https://user-images.githubusercontent.com/79190958/231403166-f677a3a3-102f-4231-ae6e-bdab53aa2503.jpg)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
